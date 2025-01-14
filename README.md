@@ -1,4 +1,3 @@
-
 # Employee Turnover Dashboard  
 A Power BI Project for Employee Turnover Analysis  
 
@@ -20,10 +19,9 @@ This Power BI dashboard was created to analyze employee turnover and support HR 
 - **Trend analysis** and dynamic filtering for flexible insights.  
 
 ## 🚀 Key Features  
-1. **Turnover Trend Visualization** – Yearly, monthly, and weekly breakdowns.  
-2. **Department Analysis** – Highlights the most impacted departments.  
-3. **Reasons for Leaving** – Explored with interactive filters.  
-4. **KPI Metrics** – Includes overall turnover rate, average turnover period, and more.  
+1. **Department Analysis** – Highlights the most impacted departments.  
+2. **Reasons for Leaving** – Explored with interactive filters.  
+3. **KPI Metrics** – Includes overall turnover rate, average turnover period, and more.  
 
 ## 🧑‍💻 Technologies  
 - **Power BI Desktop**  
