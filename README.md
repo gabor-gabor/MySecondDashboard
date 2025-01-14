@@ -6,14 +6,7 @@ I' built the simple Power BI Dashboard
 A Power BI Project for Employee Turnover Analysis  
 
 ## 📊 Executive Summary  
-This Power BI dashboard was created to analyze employee turnover and support HR and management decision-making.  
-The dashboard provides a clear view of:  
-- Turnover trends  
-- Impacted departments  
-- Primary reasons for leaving  
-- Key metrics  
-
-The tool aims to inform decision-making and guide strategies for reducing turnover rates.  
+This Power BI dashboard was created to analyze employee turnover and support HR and management decision-making. The dashboard provides a clear view of turnover trends, impacted departments, primary reasons for leaving, and other key metrics. The tool aims to inform decision-making and guide strategies for reducing turnover rates. 
 
 ## 🎯 Objectives  
 1. Provide an overview of key turnover metrics.  
