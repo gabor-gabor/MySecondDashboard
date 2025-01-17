@@ -1,5 +1,5 @@
-# Employee Turnover Dashboard  
-A Power BI Project for Employee Turnover Analysis  
+# Employee Attrition Dashboard – (FINAL TASK at Datakepzes.hu Course)  
+A Power BI Project for Employee Attrition Analysis 
 
 ## 📊 Executive Summary  
 This Power BI dashboard was created to analyze employee turnover and support HR and management decision-making. The dashboard provides a clear view of turnover trends, impacted departments, primary reasons for leaving, and other key metrics. The tool aims to inform decision-making and guide strategies for reducing turnover rates. 
